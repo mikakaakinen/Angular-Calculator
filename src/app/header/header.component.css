@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  color: #000;
+  background-color: #ffcb05;
+  width: 100%;
+  max-width: 100%;
+  font-size: 3rem;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #000;
+  background-color: #ffcb05;
+  width: 100%;
+  max-width: 100%;
+  font-size: 2.5rem;
+}

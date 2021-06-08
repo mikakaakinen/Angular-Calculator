@@ -1,0 +1,15 @@
+h3 {
+  text-align: center;
+  padding: 20px 0;
+  color: #000;
+  background-color: #ffcb05;
+  width: 100%;
+  max-width: 100%;
+  font-size: 2rem;
+  position: fixed;
+  bottom: 0;
+}
+
+h3 span {
+  color: #ff0000;
+}
